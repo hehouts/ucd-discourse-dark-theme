@@ -1,0 +1,53 @@
+@mixin border-radius-small {
+  border-radius: 10px;
+}
+
+@mixin border-radius-large {
+  border-radius: 20px;
+}
+
+
+
+$mud: #1D4776;
+//    e.g. boarders
+
+$sand: #f9c834;
+//    e.g. notification boxes
+
+$wet_sand: #eae5cd;
+//    e.g. some boarders
+
+
+$sky: #1D4776;
+// . e.g. heading boxes
+$water: #355B85;
+
+
+$night: #68c6b9;
+//highlight new topic button
+$dark_night: #00a791;
+//lowlight
+
+
+$gold: #1D4776;
+//  e.g. heading boxes
+$light_gold: #FFD966;
+//  e.g. new window flash-temp highlight
+//ffb15d
+//$poppy: #ffb15d;
+//$green: #bce1a9;
+//$test: #bce1a9;
+// original palette:
+
+// $mud: #ccc1a7;
+// $sand: #f1e9d5;
+// $wet_sand: #eae5cd;
+
+// $sky: #68c6b9;
+// $water: #00a791;
+
+// $night: #015562;
+// $dark_night: #00333d;
+
+// $gold: #fcca46;
+// $light_gold: #fdde89;
